@@ -1,0 +1,13 @@
+#main_table th,
+#main_table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+#main_table {
+    border-collapse: collapse;
+}
+
+#main_table th {
+    background:skyblue;
+}
